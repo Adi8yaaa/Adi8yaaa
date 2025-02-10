@@ -6,7 +6,6 @@
 - 😄 Pronouns: He\Him
 - ⚡ Fun fact: I can solve a Rubik's Cube in under a minute!
 
-How does that sound? Feel free to tweak any part of it! 😄
 
 <!---
 Adi8yaaa/Adi8yaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
